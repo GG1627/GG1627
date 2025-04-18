@@ -13,13 +13,13 @@ I'm a second-year computer engineering student at the University of Florida. I'm
 
 - ⚛️ Developing dynamic front-end interfaces using **React** and **Tailwind CSS**
 - 🛠️ Exploring full-stack tools like **Firebase**, **Vite**, and **Node.js**
-- 💼 Building out my [coding portfolio](https://2d-portfolio-git-master-gael-garcias-projects.vercel.app/) *(add your actual URL)*
+- 💼 Building out my [coding portfolio](https://2d-portfolio-git-master-gael-garcias-projects.vercel.app/) 
 
 ---
 
 ### 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gael-garcia1627/)  *(replace with your real LinkedIn URL)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gael-garcia1627/)  
 
 ---
 
