@@ -1,29 +1,33 @@
 # 👋 Hi, I'm Gael Garcia
 
-**Computer Engineering Student** at University of Florida | **Full-Stack Developer** | **React Enthusiast**
+**Computer Engineering Student** @ UF | **Full-Stack Developer** | **React Enthusiast**
 
 ---
 
 ### 🚀 What I Build
 
-- **Mobile Apps** with React Native, TypeScript, and Supabase
-- **AI-Powered Solutions** using machine learning and cloud services
-- **Web Applications** with React, Next.js, and modern tooling
-- **Portfolio**: [gael-garcia.com](https://2d-portfolio-git-master-gael-garcias-projects.vercel.app/)
+- Mobile apps with **React Native**, **TypeScript**, and **Supabase**  
+- AI-powered tools with **Python**, **FastAPI**, and cloud services  
+- Modern web apps with **React**, **Next.js**, and performance-first tooling  
+- 🌐 [Portfolio](https://2d-portfolio-git-master-gael-garcias-projects.vercel.app/)
 
-### 💼 Current Experience
+---
 
-**CEO & Founder** at **Picza** - Social Culinary Platform
+### 💼 Current Role
 
-- Built full-stack React Native app with TypeScript, Supabase, and PostgreSQL
-- Implemented AI-powered content moderation using Google Cloud Vision
-- Optimized performance with TanStack Query and Cloudflare R2 storage
+**Founder & CEO** of **Picza** — a social culinary platform  
+- Built a full-stack mobile app with React Native & Supabase  
+- Integrated Google Cloud Vision for AI-powered content moderation  
+- Leveraged Cloudflare R2 and TanStack Query for performance
 
-### 🏆 Recent Projects
+---
 
-- **Poseidon**: AI flood prediction system (92% accuracy) with FastAPI & React
-- **Portfolio**: High-performance Next.js site with Framer Motion animations
-- **ACM Dashboard**: React admin panel for 2000+ university members
+### 📚 Currently Learning
+
+Exploring **Cloud Computing**, **AI**, and **Distributed Systems**  
+Focused on **AWS**, **Docker**, and scalable backend architecture
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -39,6 +43,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 📫 Let's Connect
