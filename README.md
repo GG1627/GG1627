@@ -29,29 +29,14 @@
 
 ## My GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GG1627&show_icons=true&include_all_commits=true&hide=contribs&theme=radical&rank_icon=github&hide_border=false&card_width=470" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GG1627&layout=compact&theme=radical&hide_border=false&card_width=360&langs_count=6" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=GG1627&show_icons=true&commits_year=2025&hide=contribs&theme=bear&rank_icon=github"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GG1627&layout=compact&theme=bear"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GG1627&theme=radical&hide_border=false" height="160" alt="Streak" />
 </div>
-
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=GG1627&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"
-    alt="GitHub Streak"
-  />
-</div>
-
----
-
-<div align="center">
 
 ## Let's Connect
 
