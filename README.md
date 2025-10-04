@@ -1,35 +1,18 @@
-# 👋 Hi, I'm Gael Garcia
+<p align="center">
+ 
+</p align="center">
 
-**Computer Engineering Student** @ UF | **Full-Stack Developer** | **React Enthusiast**
+<img src="https://github.com/GG1627/GG1627/blob/main/images/banner.png" />
 
----
+<p align="center">
 
-### 🚀 What I Build
-
-- Mobile apps with **React Native**, **TypeScript**, and **Supabase**  
-- AI-powered tools with **Python**, **FastAPI**, and cloud services  
-- Modern web apps with **React**, **Next.js**, and performance-first tooling  
-- 🌐 [Portfolio](https://2d-portfolio-git-master-gael-garcias-projects.vercel.app/)
+**I'm a 3rd year student pursuing a bachelors in Computer Engineering with a spceciilization in Artificail Intelligence while also pursuing a minor in Mathematics. I am currently serving as the Websmaster at UF IEEE EMBS (Engineering in Medicine in Biology Society) making a sleek and functional website for all our members. I am passionate about coding and i love to explore new technologies and leverage them to solve real world problems.**
 
 ---
 
-### 💼 Current Role
+![My Skills](https://skillicons.dev/icons?i=python,js,react,html,css,git,github)
 
-**Founder & CEO** of **Picza** — a social culinary platform  
-- Built a full-stack mobile app with React Native & Supabase  
-- Integrated Google Cloud Vision for AI-powered content moderation  
-- Leveraged Cloudflare R2 and TanStack Query for performance
-
----
-
-### 📚 Currently Learning
-
-Exploring **Cloud Computing**, **AI**, and **Distributed Systems**  
-Focused on **AWS**, **Docker**, and scalable backend architecture
-
----
-
-### 🛠️ Tech Stack
+## Technology Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,18 +22,18 @@ Focused on **AWS**, **Docker**, and scalable backend architecture
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GG1627&show_icons=true&commits_year=2025&hide=contribs&theme=bear&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GG1627&layout=compact&theme=bear)
+
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=GG1627&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gael-garcia1627/)
-
----
-
-_Computer Engineering student at UF (GPA: 3.83) passionate about building technology that empowers communities through innovation and education._
