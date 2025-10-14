@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/GG1627/GG1627/blob/main/images/banner.png" alt="Banner" />
+  <img src="https://github.com/GG1627/GG1627/blob/main/images/banner1.png" alt="Banner" />
 </div>
 
 ---
