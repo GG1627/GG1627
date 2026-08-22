@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./images/gael-profile.svg" width="100%" alt="Gael Garcia — software engineer building AI systems and full-stack products" />
+  <img src="./images/gael-profile-1.svg" width="100%" alt="Gael Garcia — software engineer building AI systems and full-stack products" />
 </div>
 
 <p align="center">
