@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="184" height="44" viewBox="0 0 184 44" role="img" aria-labelledby="title">
-  <title id="title">View projects</title>
-  <rect x="1" y="1" width="182" height="42" rx="3" fill="#151515" stroke="#151515" stroke-width="2"/>
-  <path d="M20.5 17.5 16 22l4.5 4.5M25.5 17.5 30 22l-4.5 4.5" fill="none" stroke="#ebe7dd" stroke-width="1.6" stroke-linecap="square" stroke-linejoin="miter"/>
-  <text x="46" y="27" fill="#ebe7dd" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">PROJECTS</text>
-  <path d="M158 17h8v8M166 17l-10 10" fill="none" stroke="#ebe7dd" stroke-width="1.6" stroke-linecap="square" stroke-linejoin="miter"/>
-</svg>

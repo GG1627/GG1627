@@ -11,7 +11,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/GG1627?tab=repositories"><img src="./images/projects-button.svg" height="46" alt="View my projects" /></a>
+  <a href="https://github.com/GG1627?tab=repositories"><img src="./images/projects-button-color.svg" height="46" alt="View my projects" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gael-garcia1627/"><img src="./images/linkedin-button.svg" height="46" alt="Connect on LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/gael-garcia1627/"><img src="./images/linkedin-button-color.svg" height="46" alt="Connect on LinkedIn" /></a>
 </p>

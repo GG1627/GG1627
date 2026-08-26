@@ -8,30 +8,30 @@
     .name { font-size: 13px; font-weight: 650; }
   </style>
 
-  <rect x="1" y="1" width="1198" height="196" rx="10" fill="#151515" stroke="#353535" stroke-width="2"/>
-  <rect x="24" y="25" width="30" height="3" fill="#3153c7"/>
-  <text x="68" y="31" class="sans" font-size="11" font-weight="700" letter-spacing="2.2" fill="#b9b6ae">SELECTED TECHNOLOGIES</text>
+  <rect x="1" y="1" width="1198" height="196" rx="10" fill="#172033" stroke="#35415a" stroke-width="2"/>
+  <rect x="24" y="25" width="30" height="3" fill="#e46f52"/>
+  <text x="68" y="31" class="sans" font-size="11" font-weight="700" letter-spacing="2.2" fill="#c8cede">SELECTED TECHNOLOGIES</text>
   <text x="1174" y="31" text-anchor="end" class="mono" font-size="11" fill="#77746f">INDEX / 01—15</text>
-  <path d="M24 50H1176" stroke="#383838"/>
+  <path d="M24 50H1176" stroke="#3c4861"/>
 
   <!-- Row one -->
   <g class="sans">
-    <g transform="translate(24 68)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">TS</text><text x="42" y="20" class="name" fill="#ebe7dd">TypeScript</text></g>
-    <g transform="translate(169 68)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">JS</text><text x="42" y="20" class="name" fill="#ebe7dd">JavaScript</text></g>
-    <g transform="translate(314 68)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">PY</text><text x="42" y="20" class="name" fill="#ebe7dd">Python</text></g>
-    <g transform="translate(459 68)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">C++</text><text x="42" y="20" class="name" fill="#ebe7dd">C++</text></g>
-    <g transform="translate(604 68)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">RE</text><text x="42" y="20" class="name" fill="#ebe7dd">React</text></g>
-    <g transform="translate(749 68)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">NX</text><text x="42" y="20" class="name" fill="#ebe7dd">Next.js</text></g>
-    <g transform="translate(894 68)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">TW</text><text x="42" y="20" class="name" fill="#ebe7dd">Tailwind</text></g>
-    <g transform="translate(1039 68)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">FA</text><text x="42" y="20" class="name" fill="#ebe7dd">FastAPI</text></g>
+    <g transform="translate(24 68)"><rect width="30" height="30" fill="#e46f52"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#172033">TS</text><text x="42" y="20" class="name" fill="#f3ecdf">TypeScript</text></g>
+    <g transform="translate(169 68)"><rect width="30" height="30" fill="#e46f52"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#172033">JS</text><text x="42" y="20" class="name" fill="#f3ecdf">JavaScript</text></g>
+    <g transform="translate(314 68)"><rect width="30" height="30" fill="#e46f52"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#172033">PY</text><text x="42" y="20" class="name" fill="#f3ecdf">Python</text></g>
+    <g transform="translate(459 68)"><rect width="30" height="30" fill="#e46f52"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#172033">C++</text><text x="42" y="20" class="name" fill="#f3ecdf">C++</text></g>
+    <g transform="translate(604 68)"><rect width="30" height="30" fill="#3a5ccf"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#f3ecdf">RE</text><text x="42" y="20" class="name" fill="#f3ecdf">React</text></g>
+    <g transform="translate(749 68)"><rect width="30" height="30" fill="#3a5ccf"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#f3ecdf">NX</text><text x="42" y="20" class="name" fill="#f3ecdf">Next.js</text></g>
+    <g transform="translate(894 68)"><rect width="30" height="30" fill="#3a5ccf"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#f3ecdf">TW</text><text x="42" y="20" class="name" fill="#f3ecdf">Tailwind</text></g>
+    <g transform="translate(1039 68)"><rect width="30" height="30" fill="#3a5ccf"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#f3ecdf">FA</text><text x="42" y="20" class="name" fill="#f3ecdf">FastAPI</text></g>
 
     <!-- Row two -->
-    <g transform="translate(24 128)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">DK</text><text x="42" y="20" class="name" fill="#ebe7dd">Docker</text></g>
-    <g transform="translate(169 128)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">RD</text><text x="42" y="20" class="name" fill="#ebe7dd">Redis</text></g>
-    <g transform="translate(314 128)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">AWS</text><text x="42" y="20" class="name" fill="#ebe7dd">AWS</text></g>
-    <g transform="translate(459 128)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">FB</text><text x="42" y="20" class="name" fill="#ebe7dd">Firebase</text></g>
-    <g transform="translate(604 128)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">SB</text><text x="42" y="20" class="name" fill="#ebe7dd">Supabase</text></g>
-    <g transform="translate(749 128)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">FG</text><text x="42" y="20" class="name" fill="#ebe7dd">Figma</text></g>
-    <g transform="translate(894 128)"><rect width="30" height="30" fill="none" stroke="#66635e"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#ebe7dd">GT</text><text x="42" y="20" class="name" fill="#ebe7dd">Git</text></g>
+    <g transform="translate(24 128)"><rect width="30" height="30" fill="#4f8a78"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#f3ecdf">DK</text><text x="42" y="20" class="name" fill="#f3ecdf">Docker</text></g>
+    <g transform="translate(169 128)"><rect width="30" height="30" fill="#4f8a78"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#f3ecdf">RD</text><text x="42" y="20" class="name" fill="#f3ecdf">Redis</text></g>
+    <g transform="translate(314 128)"><rect width="30" height="30" fill="#4f8a78"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#f3ecdf">AWS</text><text x="42" y="20" class="name" fill="#f3ecdf">AWS</text></g>
+    <g transform="translate(459 128)"><rect width="30" height="30" fill="#4f8a78"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#f3ecdf">FB</text><text x="42" y="20" class="name" fill="#f3ecdf">Firebase</text></g>
+    <g transform="translate(604 128)"><rect width="30" height="30" fill="#4f8a78"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#f3ecdf">SB</text><text x="42" y="20" class="name" fill="#f3ecdf">Supabase</text></g>
+    <g transform="translate(749 128)"><rect width="30" height="30" fill="#d6a84f"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#172033">FG</text><text x="42" y="20" class="name" fill="#f3ecdf">Figma</text></g>
+    <g transform="translate(894 128)"><rect width="30" height="30" fill="#d6a84f"/><text x="15" y="20" text-anchor="middle" class="mono code" fill="#172033">GT</text><text x="42" y="20" class="name" fill="#f3ecdf">Git</text></g>
   </g>
 </svg>
