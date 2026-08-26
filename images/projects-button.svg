@@ -1,15 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="184" height="44" viewBox="0 0 184 44" role="img" aria-labelledby="title">
   <title id="title">View projects</title>
-  <defs>
-    <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#ff7849"/>
-      <stop offset="0.55" stop-color="#ff4f73"/>
-      <stop offset="1" stop-color="#8c5cff"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="182" height="42" rx="13" fill="#11141a" stroke="url(#border)" stroke-width="2"/>
-  <rect x="11" y="10" width="24" height="24" rx="7" fill="url(#border)"/>
-  <path d="M20.5 17.5 16 22l4.5 4.5M25.5 17.5 30 22l-4.5 4.5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="49" y="27" fill="#f5f7fb" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="13" font-weight="800" letter-spacing="1.4">PROJECTS</text>
-  <path d="M158 17h8v8M166 17l-10 10" fill="none" stroke="#77f9d4" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1" y="1" width="182" height="42" rx="3" fill="#151515" stroke="#151515" stroke-width="2"/>
+  <path d="M20.5 17.5 16 22l4.5 4.5M25.5 17.5 30 22l-4.5 4.5" fill="none" stroke="#ebe7dd" stroke-width="1.6" stroke-linecap="square" stroke-linejoin="miter"/>
+  <text x="46" y="27" fill="#ebe7dd" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">PROJECTS</text>
+  <path d="M158 17h8v8M166 17l-10 10" fill="none" stroke="#ebe7dd" stroke-width="1.6" stroke-linecap="square" stroke-linejoin="miter"/>
 </svg>

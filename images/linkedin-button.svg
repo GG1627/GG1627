@@ -1,14 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="184" height="44" viewBox="0 0 184 44" role="img" aria-labelledby="title">
   <title id="title">Connect on LinkedIn</title>
-  <defs>
-    <linearGradient id="border" x1="0" y1="1" x2="1" y2="0">
-      <stop stop-color="#77f9d4"/>
-      <stop offset="1" stop-color="#7ab8ff"/>
-    </linearGradient>
-  </defs>
-  <rect x="1" y="1" width="182" height="42" rx="13" fill="#11141a" stroke="url(#border)" stroke-width="2"/>
-  <rect x="11" y="10" width="24" height="24" rx="7" fill="url(#border)"/>
-  <text x="23" y="27" text-anchor="middle" fill="#0b1115" font-family="Arial,sans-serif" font-size="15" font-weight="900">in</text>
-  <text x="49" y="27" fill="#f5f7fb" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="13" font-weight="800" letter-spacing="1.4">LINKEDIN</text>
-  <path d="M158 17h8v8M166 17l-10 10" fill="none" stroke="#ff7849" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="1" y="1" width="182" height="42" rx="3" fill="#ebe7dd" stroke="#151515" stroke-width="2"/>
+  <rect x="14" y="15" width="14" height="14" fill="#3153c7"/>
+  <text x="21" y="26" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="9" font-weight="900">in</text>
+  <text x="46" y="27" fill="#151515" font-family="Inter,ui-sans-serif,system-ui,sans-serif" font-size="12" font-weight="700" letter-spacing="1.8">LINKEDIN</text>
+  <path d="M158 17h8v8M166 17l-10 10" fill="none" stroke="#151515" stroke-width="1.6" stroke-linecap="square" stroke-linejoin="miter"/>
 </svg>
