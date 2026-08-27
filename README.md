@@ -1,21 +1,83 @@
-<div align="center">
-  <img src="./images/profile-sketchbook.svg" width="100%" alt="Gael Garcia — a source-controlled, hand-drawn software engineering sketchbook" />
-</div>
+<table>
+<tr>
+<td valign="top">
+<pre>@@@@@@@@@@@@@@##*##*+-+=-==-=#%@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@#-:-:.:-::.::.::-===##%@@@@@@@@@@
+@@@@@@@@@@#*+:::::...::.:::.::::---=*@@@@@@@@@
+@@@@@@@@*-::.....:.:--:::::::::::-=:-+#@@@@@@@
+@@@@@@@=--:-:.::..::-::::-:.-::::-+-:::+@@@@@@
+@@@@@%-:::.:..:::.::::--::::-:--:=-::::=#@@@@@
+@@@@%-:.:.:::.:.:::::::-----:-::::.:::-:-+%@@@
+@@@@#...:.:::::::::::---:-::::::::..:::-:-#@@@
+@@@@%.:::.:::::=-----+++=-::--==-:...::::=@@@@
+@@@@=.::.::::----:-=*##%:--++*=---:::::::-#@@@
+@@@%:::::::-:=+***#@@@@@%#%%%%*++=--:::::-+@@@
+@@@@%:::::=#%%@@@@@@@@@@@@@@@@@@%#%*=::-::+@@@
+@@@@@=::.=#%#######%@@@@@@@%######@@#::::=%@@@
+@@@@@=:::*#++**##*+*%@@@@@%*+**#*#%#%=:-:=@@@@
+@@@@@+::=##%@@@@@@@@%%@@@%%%%%%@@@@%@#--:*@@@@
+@@@@@%-:=%%%%***=+%%@@@@@@@%#++*##%@@@=-+%@@@@
+@@@@@@#-=#%@%%@@@@@@@@@@@@@@@@@%@@@@@@+*%@@@@@
+@@@@@@%%+#@@@@@@@@@@@@@@@@@@@@@@@@@@@@#@@@@@@@
+@@@@@@%###@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@###@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@%##%@@@@@@@@%%%%@@##%@@@@@@@@@@@@@@@@@@
+@@@@@@@@%#%@@@@%%%%%##%%%**%@@%#@@@@@@%@@@@@@@
+@@@@@@@@@%%@@@@########%%@@%@%%#%@@@@@@@@@@@@@
+@@@@@@@@@%%@@@@@@#*#%%%%%%%%#%@@@@@@@%@@@@@@@@
+@@@@@@@@@@%@@@@@@%#%%@@@@@@@@@@@@@@@%@@@@@@@@@
+@@@@@@@@@@@%%@@@@@@@%%%@%%@@@@@@@@%%@@@@@@@@@@
+@@@@@@@@#*=-+#%@@@@@@@@@@@@@@@@@%*=*%%@@@@@@@@
+@@@@@@#+=----=*#%@@@@@@@@@@@@@%*=*=*###%@@@@@@
+@@@@%*====---=***%@@@@@@@@@@@#==*#+#####%@@@@@
+@@%+=---===--+*##=+***##***+=:=#%#########%@@@
+======---===-+##%%+:::::::::-+#%%####*#####%%@
++=--====-=====+@%%%%*+=--=+*%%%####**###*+**##
+*+=--=-=========%@@@@%%%%%%%@%####**##**##**#%
+**====+=-=+======*@@@@@@@@@%#**#**###*#*##+*%%
+##*++=-=++=++=====+#@@@@%#*##@#**######*##=#%%</pre>
+</td>
+<td valign="top">
+<pre>{
+  "gael@github": {
+    "name": "Gael Garcia",
+    "role": "Software Engineer",
 
-<br />
+    "education": {
+      "university": "University of Florida",
+      "major": "Computer Engineering",
+      "specialization": "Artificial Intelligence",
+      "minor": "Mathematics"
+    },
+
+    "previously": {
+      "company": "Visa",
+      "role": "Software Engineering Intern"
+    },
+
+    "building": [
+      "AI systems",
+      "full-stack products"
+    ],
+
+    "stack": {
+      "languages": ["TypeScript", "Python", "C++"],
+      "frontend": ["React", "Next.js"],
+      "backend": ["FastAPI", "Redis"],
+      "platform": ["Docker", "AWS"]
+    },
+
+    "status": "still compiling"
+  }
+}</pre>
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/GG1627?tab=repositories"><img src="./images/projects-button-sketch.svg" height="58" alt="Open Gael's projects" /></a>
-  &nbsp;&nbsp;
-  <a href="./profile/portrait.txt"><img src="./images/portrait-button-sketch.svg" height="58" alt="View Gael's ASCII self-portrait" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gael-garcia1627/"><img src="./images/linkedin-button-sketch.svg" height="58" alt="Connect with Gael on LinkedIn" /></a>
-</p>
-
-<p align="center">
-  <sub>
-    <a href="./profile/profile.json"><code>source</code></a>
-    → <a href="./scripts/generate-sketchbook.mjs"><code>zero-dependency renderer</code></a>
-    → deterministic imperfections
-  </sub>
+  <a href="https://github.com/GG1627?tab=repositories"><code>./projects</code></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/gael-garcia1627/"><code>./linkedin</code></a>
+  &nbsp;·&nbsp;
+  <a href="./profile/portrait.txt"><code>./portrait.txt</code></a>
 </p>

@@ -1,8 +1,0 @@
-{
-  "name": "gg1627-profile",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build:profile": "node scripts/generate-sketchbook.mjs"
-  }
-}
