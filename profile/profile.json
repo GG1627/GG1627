@@ -1,0 +1,43 @@
+{
+  "name": "Gael Garcia",
+  "handle": "GG1627",
+  "role": "Software Engineer",
+  "education": "Computer Engineering + AI @ University of Florida",
+  "minor": "Mathematics",
+  "previous": "SWE Intern @ Visa",
+  "focus": ["AI systems", "full-stack products"],
+  "technologies": [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Python",
+    "FastAPI",
+    "Docker",
+    "AWS",
+    "Redis"
+  ],
+  "projects": [
+    {
+      "name": "SurgiTrack",
+      "description": "computer vision / distributed pipeline",
+      "accent": "coral",
+      "url": "https://github.com/GG1627/Sugerical-Tool-Tracker"
+    },
+    {
+      "name": "Picza",
+      "description": "campus food / social product",
+      "accent": "violet",
+      "url": "https://github.com/GG1627/Picza"
+    },
+    {
+      "name": "Game Twin",
+      "description": "470K-game / recommendation engine",
+      "accent": "cyan",
+      "url": "https://github.com/GG1627/Game-Twin"
+    }
+  ],
+  "links": {
+    "projects": "https://github.com/GG1627?tab=repositories",
+    "linkedin": "https://www.linkedin.com/in/gael-garcia1627/"
+  }
+}
