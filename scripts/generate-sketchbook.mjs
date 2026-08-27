@@ -71,7 +71,7 @@ const projectNotes = profile.projects.map((project, index) => {
 const techPalette = [color.lime, color.coral, color.violet, color.cyan];
 const techStickers = profile.technologies.map((technology, index) => {
   const x = 48 + index * 138;
-  const y = 628 + Number(wobble(6));
+  const y = 635 + Number(wobble(5));
   const rotation = Number(wobble(3.4));
   const fill = techPalette[index % techPalette.length];
   return `<g transform="rotate(${rotation} ${x + 55} ${y + 21})">
@@ -145,19 +145,19 @@ const sketchbook = `<?xml version="1.0" encoding="UTF-8"?>
       <rect x="92" y="462" width="8" height="22" fill="${color.coral}" class="blink"/>
     </g>
 
-    <text x="392" y="369" class="hand" font-size="13" fill="${color.coral}" transform="rotate(-4 392 369)">learned a lot here</text>
-    ${doublePath("M390 373C368 379 354 382 337 383", color.coral, 1.4)}
+    <text x="354" y="356" class="hand" font-size="13" fill="${color.coral}" transform="rotate(-4 354 356)">learned a lot here</text>
+    ${doublePath("M352 360C335 367 319 372 300 374", color.coral, 1.4)}
     <text x="350" y="465" class="hand" font-size="14" fill="${color.blue}" transform="rotate(2 350 465)">this is a feature.</text>
   </g>
 
   <!-- Issue ticket -->
-  <g transform="rotate(1.8 286 562)">
-    <path d="M48 522H520V603H48Z" fill="${color.cyan}" stroke="${color.ink}" stroke-width="1.7" filter="url(#rough)"/>
-    <path d="M145 522V603" stroke="${color.ink}" stroke-dasharray="4 5"/>
-    <text x="68" y="550" class="mono tiny" fill="${color.ink}">ISSUE</text>
-    <text x="68" y="580" class="sans" font-size="24" font-weight="900" fill="${color.ink}">#1627</text>
-    <text x="169" y="553" class="sans" font-size="17" font-weight="800" fill="${color.ink}">make ambitious ideas real</text>
-    <text x="169" y="579" class="mono small" fill="${color.ink}">OPEN / LABELS: CURIOSITY, SHIP-IT</text>
+  <g transform="rotate(1.8 286 542)">
+    <path d="M48 505H520V579H48Z" fill="${color.cyan}" stroke="${color.ink}" stroke-width="1.7" filter="url(#rough)"/>
+    <path d="M145 505V579" stroke="${color.ink}" stroke-dasharray="4 5"/>
+    <text x="68" y="530" class="mono tiny" fill="${color.ink}">ISSUE</text>
+    <text x="68" y="559" class="sans" font-size="24" font-weight="900" fill="${color.ink}">#1627</text>
+    <text x="169" y="533" class="sans" font-size="17" font-weight="800" fill="${color.ink}">make ambitious ideas real</text>
+    <text x="169" y="558" class="mono small" fill="${color.ink}">OPEN / LABELS: CURIOSITY, SHIP-IT</text>
   </g>
 
   <!-- Hand-routed project flow -->
@@ -170,14 +170,15 @@ const sketchbook = `<?xml version="1.0" encoding="UTF-8"?>
     <path d="M526 354C596 361 615 345 655 341"/>
     <path d="M526 370C642 423 691 480 800 483"/>
   </g>
-  <text x="555" y="317" class="hand" font-size="13" fill="${color.coral}" transform="rotate(-7 555 317)">somehow, this compiles →</text>
+  <rect x="548" y="273" width="178" height="25" fill="${color.yellow}" fill-opacity="0.78" transform="rotate(-4 637 285)"/>
+  <text x="555" y="291" class="hand" font-size="14" fill="${color.ink}" transform="rotate(-4 555 291)">somehow, this compiles →</text>
   ${projectNotes}
 
   <text x="1030" y="566" class="hand" font-size="13" fill="${color.blue}" transform="rotate(3 1030 566)">more in /projects</text>
   ${doublePath("M1027 570C1056 578 1085 578 1118 568", color.blue, 1.4)}
 
   <!-- Tool stickers -->
-  <text x="42" y="624" class="mono tiny" fill="${color.fadedInk}">THINGS FOUND IN THE WORKING TREE</text>
+  <text x="42" y="607" class="mono tiny" fill="${color.fadedInk}">THINGS FOUND IN THE WORKING TREE</text>
   ${techStickers}
 
   <text x="42" y="704" class="mono tiny" fill="${color.fadedInk}">imperfections: deterministic</text>

@@ -18,22 +18,22 @@
   ],
   "projects": [
     {
-      "name": "SurgiTrack",
-      "description": "computer vision / distributed pipeline",
+      "name": "Visa Maya",
+      "description": "autonomous spend control / TypeScript + React",
       "accent": "coral",
-      "url": "https://github.com/GG1627/Sugerical-Tool-Tracker"
+      "url": "https://github.com/GG1627/visa-hackathon-demo"
     },
     {
-      "name": "Picza",
-      "description": "campus food / social product",
+      "name": "Recursive Creator",
+      "description": "three-agent learning loop / 44 offline tests",
       "accent": "violet",
-      "url": "https://github.com/GG1627/Picza"
+      "url": "https://github.com/GG1627/austin-nvidia-hackathon"
     },
     {
-      "name": "Game Twin",
-      "description": "470K-game / recommendation engine",
+      "name": "Clinical NLP",
+      "description": "DistilBERT + BiLSTM / 86% RCT accuracy",
       "accent": "cyan",
-      "url": "https://github.com/GG1627/Game-Twin"
+      "url": "https://github.com/GG1627/bme6938-project-3"
     }
   ],
   "links": {
