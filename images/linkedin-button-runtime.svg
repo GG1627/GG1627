@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="LINKEDIN">
-  <style>.sans{font-family:Inter,ui-sans-serif,system-ui,sans-serif}.mono{font-family:Consolas,monospace}</style>
-  <rect x="1" y="1" width="218" height="46" rx="4" fill="#101217" stroke="#2a2e39" stroke-width="2"/>
-  <rect x="1" y="1" width="6" height="46" rx="3" fill="#9b8cff"/>
-  <rect x="23" y="17" width="14" height="14" fill="#9b8cff"/><text x="30" y="28" text-anchor="middle" class="sans" font-size="9" font-weight="900" fill="#090a0d">in</text>
-  <text x="58" y="29" class="sans" font-size="12" font-weight="750" letter-spacing="1.6" fill="#f4f0e6">LINKEDIN</text>
-  <text x="198" y="29" text-anchor="end" class="mono" font-size="17" fill="#9b8cff">↗</text>
-</svg>

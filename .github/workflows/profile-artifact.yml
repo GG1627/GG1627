@@ -7,8 +7,8 @@ on:
       - "profile/**"
       - "scripts/**"
       - "package.json"
-      - "images/profile-runtime.svg"
-      - "images/*-button-runtime.svg"
+      - "images/profile-sketchbook.svg"
+      - "images/*-button-sketch.svg"
       - ".github/workflows/profile-artifact.yml"
   workflow_dispatch:
 

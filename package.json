@@ -3,6 +3,6 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build:profile": "node scripts/generate-profile.mjs"
+    "build:profile": "node scripts/generate-sketchbook.mjs"
   }
 }
