@@ -6,8 +6,16 @@ import { fileURLToPath } from "node:url";
 const root = resolve(dirname(fileURLToPath(import.meta.url)), "..");
 const source = (await readFile(resolve(root, "profile/profile.json"), "utf8"))
   .replaceAll("\r\n", "\n");
+const portrait = (await readFile(resolve(root, "profile/portrait.txt"), "utf8"))
+  .replaceAll("\r\n", "\n");
 const profile = JSON.parse(source);
-const build = createHash("sha256").update(source).digest("hex").slice(0, 7);
+const portraitLines = portrait.trimEnd().split("\n").length;
+const build = createHash("sha256")
+  .update(source)
+  .update("\n--- portrait.txt ---\n")
+  .update(portrait)
+  .digest("hex")
+  .slice(0, 7);
 
 const color = {
   paper: "#f2ead7",
@@ -136,7 +144,7 @@ const sketchbook = `<?xml version="1.0" encoding="UTF-8"?>
 
     <g class="mono code" fill="${color.ink}" xml:space="preserve">
       <text x="66" y="285"><tspan fill="${color.violet}">const</tspan> gael = {</text>
-      <text x="66" y="318">  studies: <tspan fill="${color.blue}">"CE + AI @ UF"</tspan>,</text>
+      <text x="66" y="318">  studies: <tspan fill="${color.blue}">"Computer Engineering + AI @ UF"</tspan>,</text>
       <text x="66" y="351">  minor: <tspan fill="${color.blue}">"mathematics"</tspan>,</text>
       <text x="66" y="384">  previously: <tspan fill="${color.blue}">"SWE @ Visa"</tspan>,</text>
       <text x="66" y="417">  builds: [<tspan fill="${color.blue}">"AI"</tspan>, <tspan fill="${color.blue}">"products"</tspan>],</text>
@@ -181,7 +189,7 @@ const sketchbook = `<?xml version="1.0" encoding="UTF-8"?>
   <text x="42" y="607" class="mono tiny" fill="${color.fadedInk}">THINGS FOUND IN THE WORKING TREE</text>
   ${techStickers}
 
-  <text x="42" y="704" class="mono tiny" fill="${color.fadedInk}">imperfections: deterministic</text>
+  <text x="42" y="704" class="mono tiny" fill="${color.fadedInk}">portrait.txt / ${portraitLines} lines / human-supplied</text>
   <text x="1158" y="704" text-anchor="end" class="mono tiny" fill="${color.fadedInk}">0 ERRORS / SEVERAL QUESTIONABLE IDEAS</text>
 </svg>`;
 
@@ -200,6 +208,7 @@ const button = ({ label, fill, tilt, mark }) => `<?xml version="1.0" encoding="U
 const outputs = [
   ["images/profile-sketchbook.svg", sketchbook],
   ["images/projects-button-sketch.svg", button({ label: "OPEN /PROJECTS", fill: color.lime, tilt: -1.1, mark: "{}" })],
+  ["images/portrait-button-sketch.svg", button({ label: "CAT PORTRAIT.TXT", fill: color.coral, tilt: -0.4, mark: ">_" })],
   ["images/linkedin-button-sketch.svg", button({ label: "LINKEDIN", fill: color.violet, tilt: 1.2, mark: "in" })]
 ];
 

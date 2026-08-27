@@ -7,6 +7,8 @@
 <p align="center">
   <a href="https://github.com/GG1627?tab=repositories"><img src="./images/projects-button-sketch.svg" height="58" alt="Open Gael's projects" /></a>
   &nbsp;&nbsp;
+  <a href="./profile/portrait.txt"><img src="./images/portrait-button-sketch.svg" height="58" alt="View Gael's ASCII self-portrait" /></a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/gael-garcia1627/"><img src="./images/linkedin-button-sketch.svg" height="58" alt="Connect with Gael on LinkedIn" /></a>
 </p>
 

@@ -18,10 +18,10 @@
   ],
   "projects": [
     {
-      "name": "Visa Maya",
-      "description": "autonomous spend control / TypeScript + React",
+      "name": "Helping Hand",
+      "description": "real-time BLE + Flutter / ML-assisted ASL learning",
       "accent": "coral",
-      "url": "https://github.com/GG1627/visa-hackathon-demo"
+      "url": "https://github.com/GG1627/helping-hand"
     },
     {
       "name": "Recursive Creator",
