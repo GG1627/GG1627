@@ -67,110 +67,125 @@
     <text x="463" y="34" class="heading">gael@github</text>
     <line x1="575" y1="29" x2="1070" y2="29" class="rule"/>
 
-    <text x="463" y="62" class="marker">·</text>
-    <text x="480" y="62" class="label">OS:</text>
-    <text x="518.7" y="62" class="dots">..............................</text>
-    <text x="1070" y="62" text-anchor="end" class="value">Software Engineering</text>
+    <text x="463" y="58" class="marker">·</text>
+    <text x="480" y="58" class="label">OS:</text>
+    <text x="518.7" y="58" class="dots">.........................................</text>
+    <text x="1070" y="58" text-anchor="end" class="value">Windows</text>
 
-    <text x="463" y="84" class="marker">·</text>
-    <text x="480" y="84" class="label">Uptime:</text>
-    <text x="559.6" y="84" class="dots">....................</text>
-    <text x="1070" y="84" text-anchor="end" class="value">21 years, 9 months, 28 days</text>
+    <text x="463" y="78" class="marker">·</text>
+    <text x="480" y="78" class="label">Uptime:</text>
+    <text x="559.6" y="78" class="dots">....................</text>
+    <text x="1070" y="78" text-anchor="end" class="value">21 years, 9 months, 28 days</text>
 
-    <text x="463" y="106" class="marker">·</text>
-    <text x="480" y="106" class="label">Host:</text>
-    <text x="539.1" y="106" class="dots">...........................</text>
-    <text x="1070" y="106" text-anchor="end" class="value">University of Florida</text>
+    <text x="463" y="98" class="marker">·</text>
+    <text x="480" y="98" class="label">Host:</text>
+    <text x="539.1" y="98" class="dots">...........................</text>
+    <text x="1070" y="98" text-anchor="end" class="value">University of Florida</text>
 
-    <text x="463" y="128" class="marker">·</text>
-    <text x="480" y="128" class="label">Kernel:</text>
-    <text x="559.6" y="128" class="dots">..........................</text>
-    <text x="1070" y="128" text-anchor="end" class="value">Computer Engineering</text>
+    <text x="463" y="118" class="marker">·</text>
+    <text x="480" y="118" class="label">Kernel:</text>
+    <text x="559.6" y="118" class="dots">..........................</text>
+    <text x="1070" y="118" text-anchor="end" class="value">Computer Engineering</text>
 
-    <text x="463" y="150" class="marker">·</text>
-    <text x="480" y="150" class="label">Focus:</text>
-    <text x="549.4" y="150" class="dots">........................</text>
-    <text x="1070" y="150" text-anchor="end" class="value">Artificial Intelligence</text>
+    <text x="463" y="138" class="marker">·</text>
+    <text x="480" y="138" class="label">Focus:</text>
+    <text x="549.4" y="138" class="dots">........................</text>
+    <text x="1070" y="138" text-anchor="end" class="value">Artificial Intelligence</text>
 
-    <text x="463" y="172" class="marker">·</text>
-    <text x="480" y="172" class="label">Minor:</text>
-    <text x="549.4" y="172" class="dots">...................................</text>
-    <text x="1070" y="172" text-anchor="end" class="value">Mathematics</text>
+    <text x="463" y="158" class="marker">·</text>
+    <text x="480" y="158" class="label">Minor:</text>
+    <text x="549.4" y="158" class="dots">...................................</text>
+    <text x="1070" y="158" text-anchor="end" class="value">Mathematics</text>
 
-    <text x="463" y="194" class="marker">·</text>
-    <text x="480" y="194" class="label">IDE:</text>
-    <text x="528.9" y="194" class="dots">........................................</text>
-    <text x="1070" y="194" text-anchor="end" class="value">VS Code</text>
+    <text x="463" y="178" class="marker">·</text>
+    <text x="480" y="178" class="label">Graduation:</text>
+    <text x="600.5" y="178" class="dots">.............................</text>
+    <text x="1070" y="178" text-anchor="end" class="value">December 2026</text>
 
-    <text x="463" y="230" class="marker">·</text>
-    <text x="480" y="230" class="label">Languages.Programming:</text>
-    <text x="713.1" y="230" class="dots">..........</text>
-    <text x="1070" y="230" text-anchor="end" class="value">TypeScript, Python, C++</text>
+    <text x="463" y="198" class="marker">·</text>
+    <text x="480" y="198" class="label">IDE:</text>
+    <text x="528.9" y="198" class="dots">........................................</text>
+    <text x="1070" y="198" text-anchor="end" class="value">VS Code</text>
 
-    <text x="463" y="252" class="marker">·</text>
-    <text x="480" y="252" class="label">Languages.Frontend:</text>
-    <text x="682.4" y="252" class="dots">...........</text>
-    <text x="1070" y="252" text-anchor="end" class="value">HTML, CSS, React, Next.js</text>
+    <text x="463" y="226" class="marker">·</text>
+    <text x="480" y="226" class="label">Languages.Programming:</text>
+    <text x="713.1" y="226" class="dots">..........</text>
+    <text x="1070" y="226" text-anchor="end" class="value">TypeScript, Python, C++</text>
 
-    <text x="463" y="274" class="marker">·</text>
-    <text x="480" y="274" class="label">Languages.Backend:</text>
-    <text x="672.1" y="274" class="dots">......................</text>
-    <text x="1070" y="274" text-anchor="end" class="value">FastAPI, Redis</text>
+    <text x="463" y="246" class="marker">·</text>
+    <text x="480" y="246" class="label">Languages.Frontend:</text>
+    <text x="682.4" y="246" class="dots">...........</text>
+    <text x="1070" y="246" text-anchor="end" class="value">HTML, CSS, React, Next.js</text>
 
-    <text x="463" y="296" class="marker">·</text>
-    <text x="480" y="296" class="label">Languages.Platform:</text>
-    <text x="682.4" y="296" class="dots">.......................</text>
-    <text x="1070" y="296" text-anchor="end" class="value">Docker, AWS</text>
+    <text x="463" y="266" class="marker">·</text>
+    <text x="480" y="266" class="label">Languages.Backend:</text>
+    <text x="672.1" y="266" class="dots">......................</text>
+    <text x="1070" y="266" text-anchor="end" class="value">FastAPI, Redis</text>
 
-    <text x="463" y="338" class="marker">·</text>
-    <text x="480" y="338" class="label">Previous.Work:</text>
-    <text x="631.2" y="338" class="dots">......................</text>
-    <text x="1070" y="338" text-anchor="end" class="value">SWE Intern @ Visa</text>
+    <text x="463" y="286" class="marker">·</text>
+    <text x="480" y="286" class="label">Languages.Platform:</text>
+    <text x="682.4" y="286" class="dots">.......................</text>
+    <text x="1070" y="286" text-anchor="end" class="value">Docker, AWS</text>
+
+    <text x="463" y="306" class="marker">·</text>
+    <text x="480" y="306" class="label">Languages.Real:</text>
+    <text x="641.5" y="306" class="dots">......................</text>
+    <text x="1070" y="306" text-anchor="end" class="value">English, Spanish</text>
+
+    <text x="463" y="340" class="marker">·</text>
+    <text x="480" y="340" class="label">Previous.Work:</text>
+    <text x="631.2" y="340" class="dots">......................</text>
+    <text x="1070" y="340" text-anchor="end" class="value">SWE Intern @ Visa</text>
 
     <text x="463" y="360" class="marker">·</text>
     <text x="480" y="360" class="label">Building.Software:</text>
     <text x="672.1" y="360" class="dots">.........................</text>
     <text x="1070" y="360" text-anchor="end" class="value">AI systems</text>
 
-    <text x="463" y="382" class="marker">·</text>
-    <text x="480" y="382" class="label">Building.Products:</text>
-    <text x="672.1" y="382" class="dots">.................</text>
-    <text x="1070" y="382" text-anchor="end" class="value">Full-stack products</text>
+    <text x="463" y="380" class="marker">·</text>
+    <text x="480" y="380" class="label">Hobbies.Offline:</text>
+    <text x="651.7" y="380" class="dots">..........................</text>
+    <text x="1070" y="380" text-anchor="end" class="value">Gym, Soccer</text>
 
-    <text x="463" y="452" class="marker">·</text>
-    <text x="480" y="452" class="label">GitHub:</text>
-    <text x="559.6" y="452" class="dots">......................................</text>
-    <text x="1070" y="452" text-anchor="end" class="value">@GG1627</text>
+    <text x="463" y="436" class="marker">·</text>
+    <text x="480" y="436" class="label">Email:</text>
+    <text x="549.4" y="436" class="dots">............................</text>
+    <text x="1070" y="436" text-anchor="end" class="value">gael.garcia@ufl.edu</text>
 
-    <text x="463" y="474" class="marker">·</text>
-    <text x="480" y="474" class="label">LinkedIn:</text>
-    <text x="580.1" y="474" class="dots">.............................</text>
-    <text x="1070" y="474" text-anchor="end" class="value">gael-garcia1627</text>
+    <text x="463" y="456" class="marker">·</text>
+    <text x="480" y="456" class="label">GitHub:</text>
+    <text x="559.6" y="456" class="dots">......................................</text>
+    <text x="1070" y="456" text-anchor="end" class="value">@GG1627</text>
 
-    <text x="463" y="520" class="marker">·</text>
-    <text x="480" y="520" class="label">Repos:</text>
-    <text x="549.4" y="520" class="dots">...............................</text>
-    <text x="1070" y="520" text-anchor="end" class="value">41  { Stars: 6 }</text>
+    <text x="463" y="476" class="marker">·</text>
+    <text x="480" y="476" class="label">LinkedIn:</text>
+    <text x="580.1" y="476" class="dots">.............................</text>
+    <text x="1070" y="476" text-anchor="end" class="value">gael-garcia1627</text>
 
-    <text x="463" y="542" class="marker">·</text>
-    <text x="480" y="542" class="label">Commits:</text>
-    <text x="569.8" y="542" class="dots">.......................................</text>
-    <text x="1070" y="542" text-anchor="end" class="value">1,028</text>
+    <text x="463" y="532" class="marker">·</text>
+    <text x="480" y="532" class="label">Repos:</text>
+    <text x="549.4" y="532" class="dots">...............................</text>
+    <text x="1070" y="532" text-anchor="end" class="value">41  { Stars: 6 }</text>
 
-    <text x="463" y="564" class="marker">·</text>
-    <text x="480" y="564" class="label">Network:</text>
-    <text x="569.8" y="564" class="dots">.....................</text>
-    <text x="1070" y="564" text-anchor="end" class="value">3 followers / 4 following</text>
+    <text x="463" y="552" class="marker">·</text>
+    <text x="480" y="552" class="label">Commits:</text>
+    <text x="569.8" y="552" class="dots">.......................................</text>
+    <text x="1070" y="552" text-anchor="end" class="value">1,030</text>
 
-    <text x="463" y="586" class="marker">·</text>
-    <text x="480" y="586" class="label">Since:</text>
-    <text x="549.4" y="586" class="dots">..................................</text>
-    <text x="1070" y="586" text-anchor="end" class="value">October 2023</text>
+    <text x="463" y="572" class="marker">·</text>
+    <text x="480" y="572" class="label">PRs / Issues:</text>
+    <text x="621.0" y="572" class="dots">...............................</text>
+    <text x="1070" y="572" text-anchor="end" class="value">149 / 10</text>
 
-    <text x="463" y="424" class="heading">- Contact</text>
-    <line x1="558" y1="419" x2="1070" y2="419" class="rule"/>
+    <text x="463" y="592" class="marker">·</text>
+    <text x="480" y="592" class="label">Network:</text>
+    <text x="569.8" y="592" class="dots">.....................</text>
+    <text x="1070" y="592" text-anchor="end" class="value">3 followers / 4 following</text>
 
-    <text x="463" y="494" class="heading">- GitHub Stats</text>
-    <line x1="608" y1="489" x2="1070" y2="489" class="rule"/>
+    <text x="463" y="410" class="heading">- Contact</text>
+    <line x1="558" y1="405" x2="1070" y2="405" class="rule"/>
+
+    <text x="463" y="506" class="heading">- GitHub Stats</text>
+    <line x1="608" y1="501" x2="1070" y2="501" class="rule"/>
   </g>
 </svg>
