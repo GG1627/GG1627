@@ -7,7 +7,7 @@
       font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
       font-variant-ligatures: none;
     }
-    .portrait { fill: #d5dbe3; font-size: 13px; }
+    .portrait { fill: #d5dbe3; font-size: 16px; }
     .heading { fill: #f0a35e; font-size: 15px; font-weight: 700; }
     .label { fill: #f0a35e; font-size: 14.5px; }
     .value {
@@ -19,139 +19,136 @@
       stroke-linejoin: round;
     }
     .marker { fill: #66717f; font-size: 14.5px; }
-    .dots { fill: #66717f; font-size: 14.5px; letter-spacing: 3px; }
+    .dots { fill: #66717f; font-size: 14.5px; letter-spacing: 7px; }
     .rule { stroke: #46505d; stroke-width: 1; }
   </style>
 
   <rect x="1" y="1" width="998" height="518" rx="14" fill="#161b22" stroke="#30363d"/>
 
   <g class="mono portrait">
-    <text y="40">
-      <tspan x="238.78" dy="0">+†~~~†</tspan>
-      <tspan x="176.22" dy="14.3">{­·……¨¨…¸¸……………´  ´</tspan>
-      <tspan x="152.76" dy="14.3">„‹ ¸·………………………………………¸¸¨’:</tspan>
-      <tspan x="137.12" dy="14.3">—¹´………………………………………………………·…‚²</tspan>
-      <tspan x="144.94" dy="14.3">·………………………………………………………………¸˜³</tspan>
-      <tspan x="129.3" dy="14.3">‘¸………………………………………………………………………·–</tspan>
-      <tspan x="129.3" dy="14.3">¸……………………………     …………………………………·ï</tspan>
-      <tspan x="121.48" dy="14.3">¨…………………        C       ¨………………¨=</tspan>
-      <tspan x="121.48" dy="14.3">“………        2ÆØGY  ŠÑò      …………†</tspan>
-      <tspan x="129.3" dy="14.3">¨…¨ ¹ÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆÆŒ  ……¨</tspan>
-      <tspan x="129.3" dy="14.3">´…  ¬        [gÈZ       (”  …·°</tspan>
-      <tspan x="129.3" dy="14.3">‹·  [yÆÆÆÆÆŒ5  ß  öŸÅÆÆÆH Ê  ·</tspan>
-      <tspan x="160.58" dy="14.3">Xi      % sÆŒ»       øÆ</tspan>
-      <tspan x="160.58" dy="14.3">àÒSõqWŒÆM&lt;:ÊØàÆÆÆÊÆÆÆÊM</tspan>
-      <tspan x="137.12" dy="14.3">Å&lt;´ŒÑÊÑÊÊÑâ” °ÈW^‰ØÑÆÆÆÊqé‹Æ</tspan>
-      <tspan x="160.58" dy="14.3">$ŒÅØÆÆÆmÚÊÆÆÆÆÊÝaßÆÂGEf Æ</tspan>
-      <tspan x="144.94" dy="14.3">‘ ²49ØÆŒÑß9’Ýé   Øè ÎeÍYL ×</tspan>
-      <tspan x="152.76" dy="14.3">¡¨o¤¹          ¡h   ²oTU</tspan>
-      <tspan x="160.58" dy="14.3">ä@ŽÆ5«  •çöZz    thÆŒØ</tspan>
-      <tspan x="168.4" dy="14.3">Ü6NŒŒÞ OÆÆÆÆÆÉÑÆŒÉÊM</tspan>
-      <tspan x="168.4" dy="14.3">;ûÛqÝò×       ‡8MØµ</tspan>
-      <tspan x="191.86" dy="14.3">ÙÊØñLÍ¢¤ÙØŒÆÆÆ’</tspan>
-      <tspan x="144.94" dy="14.3">²·…¨    ÊÆÆÆÆÆÆÆÆÆÚ  › ¨/</tspan>
-      <tspan x="129.3" dy="14.3">²¸¸………  ­      }      µ½ &amp;{ ²</tspan>
-      <tspan x="113.66" dy="14.3">¨·……………… &lt;ã³           ½ã±ü&lt; ˜ÍÏ!†</tspan>
-      <tspan x="90.2" dy="14.3">ˆ¸ ·…………………  `ÆÆ#–      œÆÝ7„  !0¸   io</tspan>
-      <tspan x="27.64" dy="14.3">`‘”†¬   ‘“  ……···………   ÑÆÆÆÆÆÆÆÆQ     &amp;·  ìj &gt;Í‹³ˆ¿ƒ)</tspan>
-      <tspan x="19.82" dy="14.3">²  Ió3Í) ”lˆ    ›   ¨……   ÆÆÆÆb   ±  (  •Ì )  ƒ™† »Yz `ºvì</tspan>
+    <text y="58">
+      <tspan x="166.08" dy="0">+::::</tspan>
+      <tspan x="98.67" dy="16.5">:::::::::::::::::</tspan>
+      <tspan x="69.78" dy="16.5">::::::::::::::::::.#.:.</tspan>
+      <tspan x="60.15" dy="16.5">::::::::::::-::::::-=.:.@</tspan>
+      <tspan x="60.15" dy="16.5">:::::::::::..+::::::::::.</tspan>
+      <tspan x="50.52" dy="16.5">::::::::::         ..:::::::</tspan>
+      <tspan x="50.52" dy="16.5">::::.      =+@        ..:::-</tspan>
+      <tspan x="50.52" dy="16.5">::.  -*@@@@@@@@@@@@@    :::</tspan>
+      <tspan x="50.52" dy="16.5">:: +@@#.  -@@@@@%. +@@@  ::</tspan>
+      <tspan x="60.15" dy="16.5">: @ +@@@@+ :%- .@@@@@+@ .</tspan>
+      <tspan x="79.41" dy="16.5">@@+     %:@@+      @@</tspan>
+      <tspan x="50.52" dy="16.5">-# #@%#@@@@@=@@@@@@@@@@@ -.</tspan>
+      <tspan x="60.15" dy="16.5">@**@@@@@@%-=@@+#@@@@@@@%@+</tspan>
+      <tspan x="60.15" dy="16.5">:*-@@@@@@@@@@@@@%#@@@@#@@-</tspan>
+      <tspan x="60.15" dy="16.5">:=.=#@@+#+  .  .@+ **#*-:</tspan>
+      <tspan x="79.41" dy="16.5">@#@@      .:*:   @@@-</tspan>
+      <tspan x="79.41" dy="16.5">.+@@@@*+@@@@@%@@@@@*</tspan>
+      <tspan x="89.04" dy="16.5">=@@@@%+.---:#@@@@#</tspan>
+      <tspan x="108.3" dy="16.5">*@@@@##*#@@@@@</tspan>
+      <tspan x="69.78" dy="16.5">=:.   .@@@@@@@@@: = +#.</tspan>
+      <tspan x="60.15" dy="16.5">.=+: .%:    .     @@@@#=@+</tspan>
+      <tspan x="21.63" dy="16.5">. =+:.=*.=@@#.      :@@##-:%#..%-</tspan>
+      <tspan x="21.63" dy="16.5">+ .*.=- :  @@@@@@@@@@@%- +%-+@ #%</tspan>
+      <tspan x="21.63" dy="16.5">%:. =*.*+.   @@@@@@     @.#=.@ @@</tspan>
+      <tspan x="21.63" dy="16.5">.              .     *       . ..</tspan>
     </text>
   </g>
 
-  <g class="mono">
+  <g class="mono" transform="translate(-190 0)">
     <text x="570" y="35" class="heading"><tspan fill="#f0a35e">gael</tspan><tspan fill="#8bd5ff">@github</tspan></text>
-    <line x1="668" y1="30" x2="972" y2="30" class="rule"/>
+    <line x1="668" y1="30" x2="1162" y2="30" class="rule"/>
 
     <g>
       <text x="570" y="64" class="marker">·</text>
       <text x="586" y="64" class="label">OS</text>
       <text x="613" y="64" class="dots">..............................</text>
-      <text x="972" y="64" text-anchor="end" class="value">Software Engineering</text>
+      <text x="1162" y="64" text-anchor="end" class="value">Software Engineering</text>
 
       <text x="570" y="85" class="marker">·</text>
       <text x="586" y="85" class="label">Host</text>
       <text x="631" y="85" class="dots">............................</text>
-      <text x="972" y="85" text-anchor="end" class="value">University of Florida</text>
+      <text x="1162" y="85" text-anchor="end" class="value">University of Florida</text>
 
       <text x="570" y="106" class="marker">·</text>
       <text x="586" y="106" class="label">Kernel</text>
       <text x="648" y="106" class="dots">...........................</text>
-      <text x="972" y="106" text-anchor="end" class="value">Computer Engineering</text>
+      <text x="1162" y="106" text-anchor="end" class="value">Computer Engineering</text>
 
       <text x="570" y="127" class="marker">·</text>
       <text x="586" y="127" class="label">Focus</text>
       <text x="639" y="127" class="dots">...........................</text>
-      <text x="972" y="127" text-anchor="end" class="value">Artificial Intelligence</text>
+      <text x="1162" y="127" text-anchor="end" class="value">Artificial Intelligence</text>
 
       <text x="570" y="148" class="marker">·</text>
       <text x="586" y="148" class="label">Minor</text>
       <text x="639" y="148" class="dots">...........................</text>
-      <text x="972" y="148" text-anchor="end" class="value">Mathematics</text>
+      <text x="1162" y="148" text-anchor="end" class="value">Mathematics</text>
 
       <text x="570" y="169" class="marker">·</text>
       <text x="586" y="169" class="label">Previous</text>
       <text x="665" y="169" class="dots">.........................</text>
-      <text x="972" y="169" text-anchor="end" class="value">SWE Intern @ Visa</text>
+      <text x="1162" y="169" text-anchor="end" class="value">SWE Intern @ Visa</text>
     </g>
 
     <text x="570" y="205" class="heading">Languages</text>
-    <line x1="660" y1="200" x2="972" y2="200" class="rule"/>
+    <line x1="660" y1="200" x2="1162" y2="200" class="rule"/>
 
     <g>
       <text x="570" y="234" class="marker">·</text>
       <text x="586" y="234" class="label">Programming</text>
       <text x="691" y="234" class="dots">.......................</text>
-      <text x="972" y="234" text-anchor="end" class="value">TypeScript, Python, C++</text>
+      <text x="1162" y="234" text-anchor="end" class="value">TypeScript, Python, C++</text>
 
       <text x="570" y="255" class="marker">·</text>
       <text x="586" y="255" class="label">Frontend</text>
       <text x="665" y="255" class="dots">.........................</text>
-      <text x="972" y="255" text-anchor="end" class="value">React, Next.js</text>
+      <text x="1162" y="255" text-anchor="end" class="value">React, Next.js</text>
 
       <text x="570" y="276" class="marker">·</text>
       <text x="586" y="276" class="label">Backend</text>
       <text x="656" y="276" class="dots">..........................</text>
-      <text x="972" y="276" text-anchor="end" class="value">FastAPI, Redis</text>
+      <text x="1162" y="276" text-anchor="end" class="value">FastAPI, Redis</text>
 
       <text x="570" y="297" class="marker">·</text>
       <text x="586" y="297" class="label">Platform</text>
       <text x="665" y="297" class="dots">.........................</text>
-      <text x="972" y="297" text-anchor="end" class="value">Docker, AWS</text>
+      <text x="1162" y="297" text-anchor="end" class="value">Docker, AWS</text>
     </g>
 
     <text x="570" y="333" class="heading">Building</text>
-    <line x1="645" y1="328" x2="972" y2="328" class="rule"/>
+    <line x1="645" y1="328" x2="1162" y2="328" class="rule"/>
 
     <g>
       <text x="570" y="362" class="marker">·</text>
       <text x="586" y="362" class="label">Software</text>
       <text x="665" y="362" class="dots">.........................</text>
-      <text x="972" y="362" text-anchor="end" class="value">AI systems</text>
+      <text x="1162" y="362" text-anchor="end" class="value">AI systems</text>
 
       <text x="570" y="383" class="marker">·</text>
       <text x="586" y="383" class="label">Products</text>
       <text x="665" y="383" class="dots">.........................</text>
-      <text x="972" y="383" text-anchor="end" class="value">Full-stack experiences</text>
+      <text x="1162" y="383" text-anchor="end" class="value">Full-stack experiences</text>
 
       <text x="570" y="404" class="marker">·</text>
       <text x="586" y="404" class="label">Status</text>
       <text x="648" y="404" class="dots">...........................</text>
-      <text x="972" y="404" text-anchor="end" class="value">still compiling</text>
+      <text x="1162" y="404" text-anchor="end" class="value">still compiling</text>
     </g>
 
     <text x="570" y="440" class="heading">Contact</text>
-    <line x1="635" y1="435" x2="972" y2="435" class="rule"/>
+    <line x1="635" y1="435" x2="1162" y2="435" class="rule"/>
 
     <g>
       <text x="570" y="469" class="marker">·</text>
       <text x="586" y="469" class="label">GitHub</text>
       <text x="648" y="469" class="dots">...........................</text>
-      <text x="972" y="469" text-anchor="end" class="value">@GG1627</text>
+      <text x="1162" y="469" text-anchor="end" class="value">@GG1627</text>
 
       <text x="570" y="490" class="marker">·</text>
       <text x="586" y="490" class="label">LinkedIn</text>
       <text x="665" y="490" class="dots">.........................</text>
-      <text x="972" y="490" text-anchor="end" class="value">gael-garcia1627</text>
+      <text x="1162" y="490" text-anchor="end" class="value">gael-garcia1627</text>
     </g>
   </g>
 </svg>
