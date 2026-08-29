@@ -8,162 +8,168 @@
       font-variant-ligatures: none;
     }
     .portrait { fill: #dce3eb; font-size: 17.5px; }
-    .heading { fill: #f5f7fa; font-size: 17px; font-weight: 700; }
-    .label { fill: #f0a35e; font-size: 16.5px; }
+    .heading { fill: #f7f9fb; font-size: 17px; font-weight: 700; }
+    .label { fill: #ffad55; font-size: 17px; font-weight: 700; }
     .value {
-      fill: #c6e7ff;
-      font-size: 16.5px;
+      fill: #8fd3ff;
+      font-size: 17px;
+      font-weight: 700;
       paint-order: stroke;
       stroke: #161b22;
       stroke-width: 6px;
       stroke-linejoin: round;
     }
-    .marker { fill: #6f7a88; font-size: 16.5px; }
-    .dots { fill: #6f7a88; font-size: 16.5px; letter-spacing: 2.5px; }
-    .rule { stroke: #f5f7fa; stroke-width: 1; opacity: .72; }
+    .marker { fill: #74808e; font-size: 17px; }
+    .dots { fill: #74808e; font-size: 17px; letter-spacing: 1.5px; }
+    .rule { stroke: #f7f9fb; stroke-width: 1; opacity: .76; }
   </style>
 
   <rect x="1" y="1" width="1098" height="618" rx="14" fill="#161b22" stroke="#30363d"/>
 
   <g class="mono portrait" xml:space="preserve">
     <text y="30">
-      <tspan x="215.60" dy="0">;&#160;·„²&#160;º</tspan>
-      <tspan x="131.36" dy="18">©!`´`´´´`´```</tspan>
-      <tspan x="120.83" dy="18">˜˜`´`````````````````´´`</tspan>
-      <tspan x="78.71" dy="18">ö/&#160;&#160;`````````````````````````````¨‹{</tspan>
-      <tspan x="68.18" dy="18">¬‚´```````````````````````````````´&#160;+</tspan>
-      <tspan x="78.71" dy="18">´`````````````````````````````````…</tspan>
-      <tspan x="68.18" dy="18">````````````````````````````````````´¦</tspan>
-      <tspan x="57.65" dy="18">´```````````````&#160;&#160;&#160;&#160;&#160;&#160;`&#160;&#160;&#160;&#160;``````````´¨</tspan>
-      <tspan x="57.65" dy="18">·```````&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ý&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;``````````·</tspan>
-      <tspan x="57.65" dy="18">·```&#160;&#160;&#160;&#160;&#160;:’´iø8áž*¯¤FÙ¥&#160;&#160;&#160;&#160;&#160;&#160;&#160;```´</tspan>
-      <tspan x="68.18" dy="18">``&#160;&#160;ƒýæWMÊÆÆÆÊMWËŒÆÆÆÆÆÆÈ#Š¤&#160;&#160;``¨”</tspan>
-      <tspan x="57.65" dy="18">|``&#160;+c&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Ö€p$õ&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ð&#160;&#160;``</tspan>
-      <tspan x="78.71" dy="18">`&#160;j&#160;¼ÂæÂÆÑQT°&#160;l&gt;&#160;&#160;×ÂÑÆÆËÅ2“a&#160;&#160;´</tspan>
-      <tspan x="99.77" dy="18">V5‡&#160;&#160;&#160;&#160;&#160;{&#160;ó&#160;ûÑç¬&#160;÷&#160;&#160;&#160;&#160;&#160;&#160;eê</tspan>
-      <tspan x="99.77" dy="18">cv–&#160;&#160;ï‹²U9D«%ÈayHZ2Y¾®Fÿkþ&#160;&#160;‚</tspan>
-      <tspan x="78.71" dy="18">¤&#160;%Zã¶áZÇÒ8µJ»!Âçí0KßAÕ#Æ$UÚ&#160;ëŽ</tspan>
-      <tspan x="78.71" dy="18">{&#160;“ÿ¥e9ñããki¯i?Ëps?ôükÖÄŠ®4£Vÿy</tspan>
-      <tspan x="89.24" dy="18">ƒ&#160;TFõÒØœ$Š§øÂÃÆÑÂRxo3øŠôôf[ÒŒ*</tspan>
-      <tspan x="89.24" dy="18">U&#160;—cL¥A&amp;yú¢ˆ˜‘›&#160;&#160;&#160;g8—‚öîƒ‡«Ï¯</tspan>
-      <tspan x="99.77" dy="18">/×Iï½&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;‘&#160;÷õÏ&#160;&#160;&#160;‘ò‰ô%</tspan>
-      <tspan x="110.30" dy="18">uJkŒïù`&#160;jr}ìL«³&#160;&#160;&#160;6”p€Òà&gt;</tspan>
-      <tspan x="110.30" dy="18">’L%Ùbýh{{¥ÆÆÆÆŽ£xÛÕáéÿÇ+</tspan>
-      <tspan x="120.83" dy="18">ôç¾ô±uo{’•i/—‹=òYODûÍ‘</tspan>
-      <tspan x="131.36" dy="18">°öäZZj“:&#160;&#160;&#160;›r±®ÒAø*&#160;&#160;¦</tspan>
-      <tspan x="162.95" dy="18">‰¶ÀÚéßHËÈÉQÁQû&#160;&#160;&#160;&#160;•ç‚</tspan>
-      <tspan x="78.71" dy="18">¨´```&#160;’›&#160;&#160;@ÝëWÆÆÙÚßÍ&#160;&#160;&#160;Í÷&#160;ï•–¬</tspan>
-      <tspan x="47.12" dy="18">…´´`````&#160;;†¢&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;©µ»Ïî÷…^í</tspan>
-      <tspan x="36.59" dy="18">´````````&#160;&#160;Ûniï&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;’tk†¿)`&#160;¬C¬&#160;&#160;…C</tspan>
-      <tspan x="15.53" dy="18">³&#160;&#160;`&#160;&#160;&#160;````&#160;&#160;&#160;ÄØWp¼ïï*?ìzÄBj¬(ˆ&#160;&#160;©=&#160;&#160;ì&#160;’%«</tspan>
-      <tspan x="15.53" dy="18">/&#160;&#160;&#160;&#160;¸&#160;&#160;&#160;&#160;&#160;&#160;`&#160;&#160;&#160;ËÀqâã€Ž#Ã&#160;&#160;˜“&#160;&#160;o=&#160;¯&#160;:a&#160;!½}</tspan>
-      <tspan x="15.53" dy="18">(×&#160;&#160;&#160;&#160;&#160;}&#160;&#160;&#160;&#160;``&#160;&#160;&#160;¯ÀqqB&#160;&#160;‹’ñ&#160;&#160;¡i&#160;&#160;}s&#160;ºù&#160;1u¼</tspan>
+      <tspan x="215.60" dy="0">·&#160;²;¸&#160;º</tspan>
+      <tspan x="131.36" dy="18">h†ˆ‘˜ˆˆ˜ˆˆˆˆ˜˜˜¸ˆ</tspan>
+      <tspan x="120.83" dy="18">´¸ˆ˜ˆˆˆˆˆˆˆˆˆˆˆˆˆˆ˜ˆˆˆ¨ˆ</tspan>
+      <tspan x="78.71" dy="18">ÒJ¹ˆ˜ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ¸</tspan>
+      <tspan x="68.18" dy="18">sºˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ˜˜´</tspan>
+      <tspan x="68.18" dy="18">`ˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆˆ’</tspan>
+      <tspan x="57.65" dy="18">¹ˆˆˆˆˆˆˆˆˆˆˆˆˆ·´´…ˆˆˆˆˆˆˆˆˆˆˆˆˆˆ˜˜</tspan>
+      <tspan x="57.65" dy="18">˜ˆˆˆˆˆˆˆˆˆˆˆ…&#160;&#160;&#160;&#160;&#160;&#160;·&#160;&#160;&#160;&#160;¨ˆˆˆˆˆˆˆˆˆ</tspan>
+      <tspan x="57.65" dy="18">˜ˆˆˆˆˆ…&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Œ³&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;·…ˆˆˆˆ¸</tspan>
+      <tspan x="57.65" dy="18">˜ˆˆˆ&#160;&#160;&#160;&#160;&#160;˜*·âÆÆŒMASÈÆÆÆ&#160;&#160;&#160;&#160;&#160;&#160;&#160;ˆˆˆˆ</tspan>
+      <tspan x="68.18" dy="18">ˆˆ&#160;&#160;¶ÆÆÆÆÆÆÆÆÊAßQØÆÆÆÆÆÆÆÆÆN&#160;&#160;ˆˆˆ&gt;</tspan>
+      <tspan x="68.18" dy="18">ˆˆ&#160;±¥&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;õWðd#È&#160;&#160;&#160;&#160;&#160;&#160;&#160;jÆ&#160;&#160;ˆˆ‹</tspan>
+      <tspan x="68.18" dy="18">ˆ`&#160;ÿ&#160;àÆÆÆÆÆÆØ}„$¥*&#160;LÆÆÆÆÆÆÜvŒ&#160;&#160;˜÷</tspan>
+      <tspan x="99.77" dy="18">EÐä&#160;&#160;&#160;&#160;&#160;&#160;&#160;š&#160;HGgU&#160;­&#160;&#160;&#160;&#160;&#160;&#160;ÅÆ</tspan>
+      <tspan x="99.77" dy="18">šyƒ…´œòyÑÐBuãÖýHÑÊÉŒÆÆÆÊÀÆ&#160;&#160;n</tspan>
+      <tspan x="78.71" dy="18">m&#160;ÝØŒÊØØÉËæøTnP¥Ç§ZÚAqß$ÿFbÊ&#160;ÆÆ</tspan>
+      <tspan x="78.71" dy="18">Ÿ&#160;üMÜääZááå6cõÿDZhkÇäZZäPPbGhÈÕ</tspan>
+      <tspan x="89.24" dy="18">¤|ÁgbábÓðÄêŒÆÆÆÆÆÆqPãÐ¶ñDëSÙBó</tspan>
+      <tspan x="78.71" dy="18">‹È˜òhDXÊËMØŠ}–§ò&#160;&#160;&#160;ÆŒ2½þá§®9úò</tspan>
+      <tspan x="99.77" dy="18">wnb9Ö&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;³&#160;‰ÔÜ¡&#160;&#160;óÝhÙá</tspan>
+      <tspan x="99.77" dy="18">’Ç9€WŠÀ°&#160;VPÓ8Rž‡&#160;&#160;‚ØŸMãKÉéˆ</tspan>
+      <tspan x="110.30" dy="18">|ø$€pWØ×¦QÆŒÈMÑêBØKÚÐÃŒà</tspan>
+      <tspan x="120.83" dy="18">BEÄpFbäú­zù±j^žÇZáÐŒŽ¬</tspan>
+      <tspan x="131.36" dy="18">”8ØMÕe¢‰1+c6ÿÙDëÑÆh&#160;&#160;ü‚</tspan>
+      <tspan x="110.30" dy="18">¨&#160;&#160;&#160;&#160;ÒÆÆÑÃBÄg€GgÆÆÆ&#160;&#160;&#160;&#160;±v</tspan>
+      <tspan x="78.71" dy="18">‘³ˆ&#160;…&#160;ª¡&#160;&#160;ÚÆÆÆÆÆÆÆÆØ&#160;&#160;&#160;H5&#160;6j?¿</tspan>
+      <tspan x="47.12" dy="18">¹&#160;&#160;&#160;³³‚&#160;&#160;01Ç&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;BH@äOo„ƒ±B&lt;•</tspan>
+      <tspan x="47.12" dy="18">‹“’&#160;&#160;­—:&#160;/ÆNS®&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;·ñÀnÏö‹&#160;Ì®r&#160;&#160;„&lt;</tspan>
+      <tspan x="15.53" dy="18">}&#160;&#160;&#160;^&#160;¹º&#160;&#160;;¨&#160;&#160;ÆÆÆÆÊÉÀbøÐØÆÆ§s¢†&#160;;¶0&#160;*F&#160;}õ%</tspan>
+      <tspan x="15.53" dy="18">s“&#160;&#160;&#160;j’&#160;¹×&#160;&#160;’&#160;&#160;&#160;ÆÆØËÆÆÆÆÆ&#160;&#160;&#160;{&#160;&#160;û0&#160;a&#160;»H&#160;wµ±</tspan>
+      <tspan x="15.53" dy="18">ùç&#160;‘&#160;&#160;:f¸&#160;°¯‹&#160;&#160;&#160;&#160;OÆÆÆÆv&#160;&#160;&#160;Æ¯&#160;LÌ&#160;„0Ÿ&#160;%ê&#160;6Uµ</tspan>
     </text>
   </g>
 
-  <g class="mono" transform="translate(-25 0)">
-    <text x="480" y="34" class="heading">gael@github</text>
-    <line x1="590" y1="29" x2="1095" y2="29" class="rule"/>
+  <g class="mono">
+    <text x="463" y="34" class="heading">gael@github</text>
+    <line x1="575" y1="29" x2="1070" y2="29" class="rule"/>
 
-    <text x="480" y="62" class="marker">·</text>
-    <text x="497" y="62" class="label">OS:</text>
-    <text x="536.8" y="62" class="dots">............................</text>
-    <text x="1095" y="62" text-anchor="end" class="value">Software Engineering</text>
+    <text x="463" y="62" class="marker">·</text>
+    <text x="480" y="62" class="label">OS:</text>
+    <text x="518.7" y="62" class="dots">..............................</text>
+    <text x="1070" y="62" text-anchor="end" class="value">Software Engineering</text>
 
-    <text x="480" y="84" class="marker">·</text>
-    <text x="497" y="84" class="label">Uptime:</text>
-    <text x="576.5" y="84" class="dots">........................</text>
-    <text x="1095" y="84" text-anchor="end" class="value">GitHub since Oct 2023</text>
+    <text x="463" y="84" class="marker">·</text>
+    <text x="480" y="84" class="label">Uptime:</text>
+    <text x="559.6" y="84" class="dots">....................</text>
+    <text x="1070" y="84" text-anchor="end" class="value">21 years, 9 months, 28 days</text>
 
-    <text x="480" y="106" class="marker">·</text>
-    <text x="497" y="106" class="label">Host:</text>
-    <text x="556.6" y="106" class="dots">.........................</text>
-    <text x="1095" y="106" text-anchor="end" class="value">University of Florida</text>
+    <text x="463" y="106" class="marker">·</text>
+    <text x="480" y="106" class="label">Host:</text>
+    <text x="539.1" y="106" class="dots">...........................</text>
+    <text x="1070" y="106" text-anchor="end" class="value">University of Florida</text>
 
-    <text x="480" y="128" class="marker">·</text>
-    <text x="497" y="128" class="label">Kernel:</text>
-    <text x="576.5" y="128" class="dots">.........................</text>
-    <text x="1095" y="128" text-anchor="end" class="value">Computer Engineering</text>
+    <text x="463" y="128" class="marker">·</text>
+    <text x="480" y="128" class="label">Kernel:</text>
+    <text x="559.6" y="128" class="dots">..........................</text>
+    <text x="1070" y="128" text-anchor="end" class="value">Computer Engineering</text>
 
-    <text x="480" y="150" class="marker">·</text>
-    <text x="497" y="150" class="label">Focus:</text>
-    <text x="566.6" y="150" class="dots">.......................</text>
-    <text x="1095" y="150" text-anchor="end" class="value">Artificial Intelligence</text>
+    <text x="463" y="150" class="marker">·</text>
+    <text x="480" y="150" class="label">Focus:</text>
+    <text x="549.4" y="150" class="dots">........................</text>
+    <text x="1070" y="150" text-anchor="end" class="value">Artificial Intelligence</text>
 
-    <text x="480" y="172" class="marker">·</text>
-    <text x="497" y="172" class="label">Minor:</text>
-    <text x="566.6" y="172" class="dots">................................</text>
-    <text x="1095" y="172" text-anchor="end" class="value">Mathematics</text>
+    <text x="463" y="172" class="marker">·</text>
+    <text x="480" y="172" class="label">Minor:</text>
+    <text x="549.4" y="172" class="dots">...................................</text>
+    <text x="1070" y="172" text-anchor="end" class="value">Mathematics</text>
 
-    <text x="480" y="194" class="marker">·</text>
-    <text x="497" y="194" class="label">IDE:</text>
-    <text x="546.7" y="194" class="dots">.....................................</text>
-    <text x="1095" y="194" text-anchor="end" class="value">VS Code</text>
+    <text x="463" y="194" class="marker">·</text>
+    <text x="480" y="194" class="label">IDE:</text>
+    <text x="528.9" y="194" class="dots">........................................</text>
+    <text x="1070" y="194" text-anchor="end" class="value">VS Code</text>
 
-    <text x="480" y="230" class="marker">·</text>
-    <text x="497" y="230" class="label">Languages.Programming:</text>
-    <text x="725.5" y="230" class="dots">..........</text>
-    <text x="1095" y="230" text-anchor="end" class="value">TypeScript, Python, C++</text>
+    <text x="463" y="230" class="marker">·</text>
+    <text x="480" y="230" class="label">Languages.Programming:</text>
+    <text x="713.1" y="230" class="dots">..........</text>
+    <text x="1070" y="230" text-anchor="end" class="value">TypeScript, Python, C++</text>
 
-    <text x="480" y="252" class="marker">·</text>
-    <text x="497" y="252" class="label">Languages.Frontend:</text>
-    <text x="695.7" y="252" class="dots">...........</text>
-    <text x="1095" y="252" text-anchor="end" class="value">HTML, CSS, React, Next.js</text>
+    <text x="463" y="252" class="marker">·</text>
+    <text x="480" y="252" class="label">Languages.Frontend:</text>
+    <text x="682.4" y="252" class="dots">...........</text>
+    <text x="1070" y="252" text-anchor="end" class="value">HTML, CSS, React, Next.js</text>
 
-    <text x="480" y="274" class="marker">·</text>
-    <text x="497" y="274" class="label">Languages.Backend:</text>
-    <text x="685.7" y="274" class="dots">.....................</text>
-    <text x="1095" y="274" text-anchor="end" class="value">FastAPI, Redis</text>
+    <text x="463" y="274" class="marker">·</text>
+    <text x="480" y="274" class="label">Languages.Backend:</text>
+    <text x="672.1" y="274" class="dots">......................</text>
+    <text x="1070" y="274" text-anchor="end" class="value">FastAPI, Redis</text>
 
-    <text x="480" y="296" class="marker">·</text>
-    <text x="497" y="296" class="label">Languages.Platform:</text>
-    <text x="695.7" y="296" class="dots">......................</text>
-    <text x="1095" y="296" text-anchor="end" class="value">Docker, AWS</text>
+    <text x="463" y="296" class="marker">·</text>
+    <text x="480" y="296" class="label">Languages.Platform:</text>
+    <text x="682.4" y="296" class="dots">.......................</text>
+    <text x="1070" y="296" text-anchor="end" class="value">Docker, AWS</text>
 
-    <text x="480" y="338" class="marker">·</text>
-    <text x="497" y="338" class="label">Previous.Work:</text>
-    <text x="646.0" y="338" class="dots">.....................</text>
-    <text x="1095" y="338" text-anchor="end" class="value">SWE Intern @ Visa</text>
+    <text x="463" y="338" class="marker">·</text>
+    <text x="480" y="338" class="label">Previous.Work:</text>
+    <text x="631.2" y="338" class="dots">......................</text>
+    <text x="1070" y="338" text-anchor="end" class="value">SWE Intern @ Visa</text>
 
-    <text x="480" y="360" class="marker">·</text>
-    <text x="497" y="360" class="label">Building.Software:</text>
-    <text x="685.7" y="360" class="dots">........................</text>
-    <text x="1095" y="360" text-anchor="end" class="value">AI systems</text>
+    <text x="463" y="360" class="marker">·</text>
+    <text x="480" y="360" class="label">Building.Software:</text>
+    <text x="672.1" y="360" class="dots">.........................</text>
+    <text x="1070" y="360" text-anchor="end" class="value">AI systems</text>
 
-    <text x="480" y="382" class="marker">·</text>
-    <text x="497" y="382" class="label">Building.Products:</text>
-    <text x="685.7" y="382" class="dots">.................</text>
-    <text x="1095" y="382" text-anchor="end" class="value">Full-stack products</text>
+    <text x="463" y="382" class="marker">·</text>
+    <text x="480" y="382" class="label">Building.Products:</text>
+    <text x="672.1" y="382" class="dots">.................</text>
+    <text x="1070" y="382" text-anchor="end" class="value">Full-stack products</text>
 
-    <text x="480" y="452" class="marker">·</text>
-    <text x="497" y="452" class="label">GitHub:</text>
-    <text x="576.5" y="452" class="dots">...................................</text>
-    <text x="1095" y="452" text-anchor="end" class="value">@GG1627</text>
+    <text x="463" y="452" class="marker">·</text>
+    <text x="480" y="452" class="label">GitHub:</text>
+    <text x="559.6" y="452" class="dots">......................................</text>
+    <text x="1070" y="452" text-anchor="end" class="value">@GG1627</text>
 
-    <text x="480" y="474" class="marker">·</text>
-    <text x="497" y="474" class="label">LinkedIn:</text>
-    <text x="596.4" y="474" class="dots">...........................</text>
-    <text x="1095" y="474" text-anchor="end" class="value">gael-garcia1627</text>
+    <text x="463" y="474" class="marker">·</text>
+    <text x="480" y="474" class="label">LinkedIn:</text>
+    <text x="580.1" y="474" class="dots">.............................</text>
+    <text x="1070" y="474" text-anchor="end" class="value">gael-garcia1627</text>
 
-    <text x="480" y="544" class="marker">·</text>
-    <text x="497" y="544" class="label">Repos:</text>
-    <text x="566.6" y="544" class="dots">............................</text>
-    <text x="1095" y="544" text-anchor="end" class="value">41  { Stars: 6 }</text>
+    <text x="463" y="520" class="marker">·</text>
+    <text x="480" y="520" class="label">Repos:</text>
+    <text x="549.4" y="520" class="dots">...............................</text>
+    <text x="1070" y="520" text-anchor="end" class="value">41  { Stars: 6 }</text>
 
-    <text x="480" y="566" class="marker">·</text>
-    <text x="497" y="566" class="label">Network:</text>
-    <text x="586.4" y="566" class="dots">....................</text>
-    <text x="1095" y="566" text-anchor="end" class="value">3 followers / 4 following</text>
+    <text x="463" y="542" class="marker">·</text>
+    <text x="480" y="542" class="label">Commits:</text>
+    <text x="569.8" y="542" class="dots">.......................................</text>
+    <text x="1070" y="542" text-anchor="end" class="value">1,028</text>
 
-    <text x="480" y="588" class="marker">·</text>
-    <text x="497" y="588" class="label">Since:</text>
-    <text x="566.6" y="588" class="dots">................................</text>
-    <text x="1095" y="588" text-anchor="end" class="value">October 2023</text>
+    <text x="463" y="564" class="marker">·</text>
+    <text x="480" y="564" class="label">Network:</text>
+    <text x="569.8" y="564" class="dots">.....................</text>
+    <text x="1070" y="564" text-anchor="end" class="value">3 followers / 4 following</text>
 
-    <text x="480" y="424" class="heading">- Contact</text>
-    <line x1="575" y1="419" x2="1095" y2="419" class="rule"/>
+    <text x="463" y="586" class="marker">·</text>
+    <text x="480" y="586" class="label">Since:</text>
+    <text x="549.4" y="586" class="dots">..................................</text>
+    <text x="1070" y="586" text-anchor="end" class="value">October 2023</text>
 
-    <text x="480" y="516" class="heading">- GitHub Stats</text>
-    <line x1="625" y1="511" x2="1095" y2="511" class="rule"/>
+    <text x="463" y="424" class="heading">- Contact</text>
+    <line x1="558" y1="419" x2="1070" y2="419" class="rule"/>
+
+    <text x="463" y="494" class="heading">- GitHub Stats</text>
+    <line x1="608" y1="489" x2="1070" y2="489" class="rule"/>
   </g>
 </svg>
