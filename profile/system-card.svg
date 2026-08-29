@@ -136,49 +136,49 @@
     <rect x="773.6" y="317" width="306.4" height="23" class="value-bg"/>
     <text x="1070" y="334" text-anchor="end" class="value">Gym, Soccer, Rocket League</text>
 
-    <text x="463" y="392" class="marker">·</text>
-    <text x="480" y="392" class="label">Email<tspan class="colon">:</tspan></text>
-    <text x="553.8" y="392" class="dots">..........................................................</text>
-    <rect x="851.5" y="375" width="228.5" height="23" class="value-bg"/>
-    <text x="1070" y="392" text-anchor="end" class="value">gael.garcia@ufl.edu</text>
+    <text x="463" y="398" class="marker">·</text>
+    <text x="480" y="398" class="label">Email<tspan class="colon">:</tspan></text>
+    <text x="553.8" y="398" class="dots">..........................................................</text>
+    <rect x="851.5" y="381" width="228.5" height="23" class="value-bg"/>
+    <text x="1070" y="398" text-anchor="end" class="value">gael.garcia@ufl.edu</text>
 
-    <text x="463" y="416" class="marker">·</text>
-    <text x="480" y="416" class="label">GitHub<tspan class="colon">:</tspan></text>
-    <text x="564.9" y="416" class="dots">.........................................................</text>
-    <rect x="985.1" y="399" width="94.9" height="23" class="value-bg"/>
-    <text x="1070" y="416" text-anchor="end" class="value">@GG1627</text>
+    <text x="463" y="422" class="marker">·</text>
+    <text x="480" y="422" class="label">GitHub<tspan class="colon">:</tspan></text>
+    <text x="564.9" y="422" class="dots">.........................................................</text>
+    <rect x="985.1" y="405" width="94.9" height="23" class="value-bg"/>
+    <text x="1070" y="422" text-anchor="end" class="value">@GG1627</text>
 
-    <text x="463" y="440" class="marker">·</text>
-    <text x="480" y="440" class="label">LinkedIn<tspan class="colon">:</tspan></text>
-    <text x="587.2" y="440" class="dots">.......................................................</text>
-    <rect x="896.0" y="423" width="184.0" height="23" class="value-bg"/>
-    <text x="1070" y="440" text-anchor="end" class="value">gael-garcia1627</text>
+    <text x="463" y="446" class="marker">·</text>
+    <text x="480" y="446" class="label">LinkedIn<tspan class="colon">:</tspan></text>
+    <text x="587.2" y="446" class="dots">.......................................................</text>
+    <rect x="896.0" y="429" width="184.0" height="23" class="value-bg"/>
+    <text x="1070" y="446" text-anchor="end" class="value">gael-garcia1627</text>
 
-    <text x="463" y="498" class="marker">·</text>
-    <text x="480" y="498" class="label">Repos<tspan class="colon">:</tspan></text>
-    <text x="553.8" y="498" class="dots">..........................................................</text>
-    <rect x="884.9" y="481" width="195.1" height="23" class="value-bg"/>
-    <text x="1070" y="498" text-anchor="end" class="value">41  { Stars: 6 }</text>
+    <text x="463" y="510" class="marker">·</text>
+    <text x="480" y="510" class="label">Repos<tspan class="colon">:</tspan></text>
+    <text x="553.8" y="510" class="dots">..........................................................</text>
+    <rect x="884.9" y="493" width="195.1" height="23" class="value-bg"/>
+    <text x="1070" y="510" text-anchor="end" class="value">41  { Stars: 6 }</text>
 
-    <text x="463" y="524" class="marker">·</text>
-    <text x="480" y="524" class="label">Commits<tspan class="colon">:</tspan></text>
-    <text x="576.0" y="524" class="dots">........................................................</text>
-    <rect x="1007.4" y="507" width="72.6" height="23" class="value-bg"/>
-    <text x="1070" y="524" text-anchor="end" class="value">1,030</text>
+    <text x="463" y="536" class="marker">·</text>
+    <text x="480" y="536" class="label">Commits<tspan class="colon">:</tspan></text>
+    <text x="576.0" y="536" class="dots">........................................................</text>
+    <rect x="1007.4" y="519" width="72.6" height="23" class="value-bg"/>
+    <text x="1070" y="536" text-anchor="end" class="value">1,030</text>
 
     <text x="463" y="234" class="marker">·</text>
     <text x="463" y="292" class="marker">·</text>
 
-    <text x="463" y="364" class="heading">- Contact</text>
-    <line x1="565" y1="359" x2="1070" y2="359" class="rule"/>
+    <text x="463" y="370" class="heading">- Contact</text>
+    <line x1="565" y1="365" x2="1070" y2="365" class="rule"/>
 
-    <text x="463" y="470" class="heading">- GitHub Stats</text>
-    <line x1="620" y1="465" x2="1070" y2="465" class="rule"/>
+    <text x="463" y="482" class="heading">- GitHub Stats</text>
+    <line x1="620" y1="477" x2="1070" y2="477" class="rule"/>
 
-    <text x="463" y="550" class="marker">·</text>
-    <text x="480" y="550" class="label">Lines of Code<tspan class="colon">:</tspan></text>
-    <text x="642.8" y="550" class="dots">.................................................</text>
-    <rect x="684.6" y="533" width="395.4" height="23" class="value-bg"/>
-    <text x="1070" y="550" text-anchor="end" class="value"><tspan fill="#9dcbec">1,842,731 (</tspan><tspan fill="#00e85c">2,516,904++</tspan><tspan fill="#9dcbec">, </tspan><tspan fill="#ff334a">674,173--</tspan><tspan fill="#9dcbec">)</tspan></text>
+    <text x="463" y="562" class="marker">·</text>
+    <text x="480" y="562" class="label">Lines of Code<tspan class="colon">:</tspan></text>
+    <text x="642.8" y="562" class="dots">.................................................</text>
+    <rect x="684.6" y="545" width="395.4" height="23" class="value-bg"/>
+    <text x="1070" y="562" text-anchor="end" class="value"><tspan fill="#9dcbec">1,842,731 (</tspan><tspan fill="#00e85c">2,516,904++</tspan><tspan fill="#9dcbec">, </tspan><tspan fill="#ff334a">674,173--</tspan><tspan fill="#9dcbec">)</tspan></text>
   </g>
 </svg>
